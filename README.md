@@ -5,7 +5,7 @@ Use a raspberry 3B plus to decode HD radio without an internet connection
 Proof of concept program for portable HD radio using a raspberry pi 3b+ to stream HD on the go without a cell phone connection.
 
 # Background information
-I would like to dump the audio to a bluetooth device with a specific mac address.... a mac address.
+I would like to dump the audio to a bluetooth device with a specific mac address.... a mac address of my SB360.
 The bluetooth device I am using is an SB360 and can be purchased on Amazon here:
 
 https://amzn.com/B00RH29CJO
@@ -19,3 +19,6 @@ https://amzn.com/B00RH29CJO
 5. Create a complete list of dependencies for raspbian
 6  Etc
 7  Etc
+
+# Let the fun begin! - Project started on July 9, 2018
+- Matt
